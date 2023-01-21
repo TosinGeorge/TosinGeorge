@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 Experienced using Power BI, Tableau, Python and SQL
 - 💞️ I’m looking for Data science internships.
-- 📫 How to reach me on tosingeorge01@gmail.com
+- 📫 You can reach me on tosingeorge01@gmail.com
 
 <!---
 TosinGeorge/TosinGeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
