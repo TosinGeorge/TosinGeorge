@@ -3,7 +3,7 @@
 - 🌱 Experienced using Power BI, Tableau, Python and SQL
 - 💞️ I’m looking for Data science jobs/internships.
 - 📫 You can reach me on tosingeorge01@gmail.com
-- I enjoy eating
+
 
 
 <!---
